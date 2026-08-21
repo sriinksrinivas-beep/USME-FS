@@ -1,0 +1,63 @@
+
+
+Aditya - Business starter and technology
+
+
+USME Procures Medical equipment
+Procure and provide to hospital for lease and rent to own it
+they have product catalogue
+speed in delivery to hospitals on request of medical equipment
+they have warehouses in strategic location and delivery with in 2hrs
+owned by private equity
+To improve the cashflow
+Increase the bottom lines
+they may sell in 2yrs
+systems should support operations and strengthen it
+
+CEO, CFO, CRO 
+decision happens in this layer
+
+company is in legacy system
+high on hosting and maintenance, development cost
+ 
+beds are fast moving equipment's
+gousme is the erp
+they have service now
+catering to rental business
+
+SFDC - pricing, quotes, contracts,  
+
+Go plans first
+
+GOUSME - ERP
+
+SFDC is used for Pricing, approval and discount - framework in SFDC
+PS Services
+bundle discounts
+
+Data Clean up have to happen
+
+Support for salesforce
+
+Some data in SFDC and GOUSME
+
+Customer are created in - GoUSME
+Prospects - in SFDC 
+contracts - in SFDC
+
+Requirement:
+To build a Custom Pricing and Discount Authorization framework on Salesforce , The solution have features — of maning the price books, Price Rules, Discounts, Advanced Approvals and the Quote Line Editor — extended to enforce deal desk governance, authority matrix controls, tiered discount approvals, and standardized quote preparation aligned to the USME Commercial Deal Framework.
+
+
+Need a Technical Design document which can outline what features of salesforce.com sales cloud can be used out of box and what features needs to be customized and custom build using custom tables, fields, pages, flows and automations.
+
+The Technical Document should also contain the high-level arcature diagram and Business process flow diagrams where its necessary.
+
+Also outline the technical questions if any and prepare a project timelines for delivering this project.
+
+
+
+
+
+
+
