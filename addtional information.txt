@@ -1,0 +1,13 @@
+Invoice volume:
+Annual Invoice Volume: 80,820 annual invoices
+Monthly Average: Approximately 6,735 invoices per month.
+December 2025 Breakdown:
+Rental Invoices: 5,846
+Sales Invoices: 540
+Rental Credit Invoices: 53
+EBO Invoices: 20
+Proforma Invoices: 15
+Service Invoices: 2
+Sale Credit Invoices: 1
+Service Credit Invoices: 1
+Line Items: Invoices range from 1 to 50 lines per invoice depending on the billing type
