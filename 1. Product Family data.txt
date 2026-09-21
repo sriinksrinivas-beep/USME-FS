@@ -1,0 +1,41 @@
+1. Product Family data
+2. Price List is manage in SFDC or GO? if its GO then is it Synced on specific intervals?
+3. Quote and Quote Line / Order and Order Line is it Std. SFDC Object or custom objects?
+4. After creating Quote and Quote line, how are the discount approval request getting  created is it every line or a bundle request?
+   Approval Rejection is it by Quote line or by entire Quote.
+ 
+5. Margin Calculation: Formula field / Flow to calculate Gross Margin % and $ per line and per quote; Custom Metadata Type “Margin Floor by Product Family” (target + floor) owned by FP&A.
+6. Provide the Authority Matrix (5-dimension tiering)
+7. Provide the Approval Routing - Entry criteria reading the calculated “Required Approval Tier” field; approver matrix by role/queue per tier; Deal Desk custom queue for Tier 4-5.
+8. Custom Report and Dashboards samples
+9. Email Notifications for approvals
+10. Exiting integration details
+11. Is the final Quote after approval integrated to GO?
+
+
+Lead Logging
+Prepare RFP Checklist	
+Improving RFP submission cycle
+Use Proposal Numbering for every proposal that goes out
+Identify the right AMS Manger 
+Define Skills, Roles and Responsibility for AMS Manger
+AMS Services - Upselling, AI, value add Services
+
+Ivalua Now - Participation
+Quotes for Ivalua Now Banner - 
+" Budget friendly Ivalua offshore efficient service providers, Boutique solution providers
+  You dont need Big Four to drain! "
+
+Packaging AMS Services
+
+Plan for Staffing Business
+Target for Staffing business 
+Separate HR Policies for Staffing Resources
+
+
+New Business Stream - GEP
+
+
+
+
+
