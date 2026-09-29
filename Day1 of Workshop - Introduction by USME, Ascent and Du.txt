@@ -1,0 +1,96 @@
+Introduction by USME, Ascent and Durvah
+Kick-off with kick-off deck and architecture.
+Automation to be part of this scope
+customization should be taught before doing
+Future state architecture
+EDI Partner - Clio
+Account - Object discussed
+Item Master - Object explained
+Contracts - Not used
+Sales rep gets a request and GPO tier. Create a Quote.
+GPO will increase the sales power. GPO will have a price for rental.
+Tier and GPO
+GPO Agreement, no amendment.
+Sale Contracts
+
+/Rentals type of Requests
+
+-Phone Calls
+-EDI
+-Portal: Sales and Rent, Model Catalogue.
+Jason is from portal, he will see only BTS or MME
+
+
+
+-Call : Order 	
+Look at notes
+
+
+Equipment  Type: BTS,  MME
+
+Any request start with a case, intake form
+if a branch is calling, we put the main contact as our employee.
+by the type of item will know what type of order it is BTS/MME
+
+BTS is linked to patient
+
+Order header to a patient is the current process
+Multiple orders to a invoice - Open
+
+
+IF there is a valid email id of the caller, he will receive an email notifications.  Opt out of emails can be chosen in the portal.
+Order Acknowledgement is sent
+
+
+Call log -> Order -> driver-> dispatch --> Mainly BTS
+
+Order came in a need -> can be a similar other item
+
+Priority type -> Equipment Type
+
+item master tag for life saving equipment's
+
+will you modify a work order and the delivered are 2 different
+
+
+Swap ->
+Order Line - > Pack line --> Invoice Line - Open
+
+
+Pickup request
+Rental Request
+exchange Request
+Swap Request
+Service Request
+
+Material with moving location (Truck) (ontruck)
+
+Patient Ready Status -> Truck -> Patient to the hospital.
+
+Load extra to the truck
+
+Order demand -
+
+Sales
+Service
+Rental
+
+
+Proposal -> 
+
+
+
+Return inspection -> Per Model, testing,
+
+Transfer location
+
+Location at Hospitals
+
+How to optimize usage of inventory ??
+
+
+
+
+
+
+
