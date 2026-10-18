@@ -1,0 +1,75 @@
+EDI Requirement for Automation:
+
+Clio WAN  -EDI to EDI
+
+Order Full is not  HIPPA Complaint
+
+Oct 30
+
+EDI Network
+
+
+EDI -> Json -> Workato( ->
+
+Trading Partner
+
+intake object -> 
+
+EMR Hospital -> 
+
+Tenet form Azure and SSO -> 
+
+Automation Strategy
+
+How workato replace - how it will go -
+
+issues in the document -> impacting customer feedback, let eric handle in the environment
+
+
+Opportunity Forecast Requirement:
+
+forecast -> what they want?  Problem -> Solution
+Fundamental Problems ->  Hygiene Problems --> 
+CRM Develop road map
+what they dont have today
+Interm and post Ascent
+
+
+What is the forecasting for business
+
+Discount authorization
+
+Quote Object -> Naveen
+
+CRM
+
+$145 + Additions (
+
+
+Migration
+Intake
+Workato
+
+Buffer -> $20-$25
+
+
+4000 Customer
+
+Change Management - 2 Page PPT
+
+How many customer in SSO, login
+
+Support
+Guided Tour
+Email communication
+
+Portal Development
+
+Project Plan
+ ->
+
+Invoice PHI -
+
+All invoices are tied to beds
+bed is missing in PHI
+
