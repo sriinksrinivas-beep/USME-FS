@@ -1,0 +1,51 @@
+Questions:
+
+Intake - Call Log
+1. What is the signifance of Partner Status? what if the status is not active?
+2. Stand by and SWAP columns 
+3. There is start date but we don't see the end dates?
+
+4. Status on the Call log (list of status) - Pending Branch, Pickup - active
+5. What is the stage/Status the call request will get converted to Sales Order - Completed 
+
+6. How do we enforce stock availability so that out-of-stock equipment cannot be added to Call Logs (real-time ERP lookup vs. local inventory flag)?
+
+7. Once a Call Log is saved, what is the automated or manual workflow governing Pickup and Delivery assignments?
+
+8. After a Call Log is saved, what operational or reporting metric does the "Exclude from KPI" checkbox affect?
+
+9. Could you clarify the purpose of the "Demo/Loader" column and explain?
+
+10. What are the different Call status?
+11. Can we get access to the test environment?
+12. What is orderd product status and Notes tab 
+
+CUstomer Portal
+1. Should the Customer view the Blanket Oder?
+2. Is there any view of consumption today for the customer?
+
+3. "Authorized Invoices" versus "Preliminary Invoices"? 
+
+
+4. Biomed Services can you explain? is it all PM reports?
+5. REntal Service Request tab is not working? is there any functionality required?
+
+
+
+
+
+
+
+6366873617 - rajesh rao
+
+
+
+
+
+
+
+2024 - Manual uploading
+Hierarchy updates not validated properly
+Training and learning - adding supplier with out parent
+Groupings
+Parent and Child relation

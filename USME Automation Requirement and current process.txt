@@ -1,0 +1,47 @@
+Automation
+Could you please share any available documentation for the automations that are currently configured and in use?
+For automations, I would like to keep the front end in place as much as possible.  We do have development resources in house that can assist with this work.
+
+EDI
+850:  PO -> Delivery Order
+850 NoFill:  PO -> Update Delivery Order/Rental with PO
+180:  RMA -> Pickup Order
+810:  Invoice outbound to EDI VAN
+855:  Ack for the 850s
+Process Inbound
+USME VAN CLEO creates JSON file in blob storage account
+Azure Function (AzFn) app pulls from blob storage
+AzFn app extracts data from JSON file
+Process Outbound
+Invoices selected in GOUSME app 
+JSON File created per invoice in blob storage account
+CLEO picks up file, converts to 810 format and transmits
+USME Connect
+Fax:
+Fax sent from EMR
+Received in eFax
+Trigger to Power Automate flow
+Flow extracts data via OCR AI model
+Calls PA flow to create Delivery or Pickup Call Log in GOUSME
+Email
+Email sent from EMR
+Received in USME mailbox
+PA flow pulls email and extracts data
+Calls PA flow to create Delivery or Pickup Call Log in GOUSME
+Secure Email
+Secure email notification sent from EMR
+ServiceNow RPA to access secure email account and extract order information
+Calls PA flow to create Delivery or Pickup Call Log in GOUSME
+SFTP
+File dropped into SFTP folder from EMR
+PA flow extracts data from file
+Call PA flow to create Delivery or Pickup Call Log in GOUSME
+Sentinel
+RPA for Delivery/Pickup
+Email trigger received from Sentinel System
+RPA flow logs in and extracts order information
+Calls PA flow to create Delivery or Pickup Call Log in GOUSME
+DaVita
+Incoming email with PDF attachment recieved
+ServiceNow DocIntel flow extracts data
+ServiceNow flow calls GOUSME API to created Delivery for Sale and Sales Order

@@ -1,0 +1,77 @@
+{
+  "Area1" : {
+    "BGN" : {
+      "BGN127_Reference Identification" : "00",
+      "BGN127_3_Reference Identification" : "300000453219090",
+      "BGN306_Action Code" : "20260515"
+    },
+    "PRF" : {
+      "PRF324_Purchase Order Number" : "EHC00022716",
+      "PRF327_Change Order Sequence Number" : "",
+      "PRF328_Release Number" : "",
+      "PRF350_Assigned Identification" : "20251111",
+      "PRF367_Contract Number" : "",
+      "PRF373_Date" : ""
+    },
+    "PER" : [ {
+      "PER366_Contact Function Code" : "BD",
+      "PER93_Name" : "Sandra Roszkowski"
+    } ],
+    "G38" : { },
+    "N1" : [ {
+      "N1" : {
+        "N198_Entity Identifier Code" : "ST",
+        "N193_Name" : "Treasure Coast Rehab Hosp",
+        "N166_Identification Code Qualifier" : "92",
+        "N167_Identification Code" : "03004500"
+      },
+      "N3" : [ {
+        "N3166_Address Information" : "1600 37th Street"
+      } ],
+      "N4" : {
+        "N419_City Name" : "Vero Beach",
+        "N4156_State or Province Code" : "FL",
+        "N4116_Postal Code" : "32960",
+        "N426_Country Code" : "US"
+      }
+    } ]
+  },
+  "Area2" : {
+    "BLI" : [ {
+      "BLI" : {
+        "BLI235_Product/Service ID Qualifier" : "PL",
+        "BLI234_Product/Service ID" : "1",
+        "BLI380_Quantity" : "1",
+        "BLI355_Unit or Basis for Measurement Code" : "DA",
+        "BLI236_Price Identifier Code" : "CAT",
+        "BLI212_Unit Price" : "2.39",
+        "BLI355_3_Unit or Basis for Measurement Code" : "",
+        "BLI235_3_Product/Service ID Qualifier" : "VC",
+        "BLI234_3_Product/Service ID" : "26550"
+      },
+      "PID" : [ {
+        "PID349_Item Description Type" : "F",
+        "PID750_Product/Process Characteristic Code" : "",
+        "PID559_Agency Qualifier Code" : "",
+        "PID751_Product Description Code" : "",
+        "PID352_Description" : "DreamStation2 Auto Cpap"
+      } ],
+      "RDR" : {
+        "RDR1292_Returns Disposition Code" : "CR",
+        "RDR1293_Return Request Reason Code" : "TE",
+        "RDR1294_Return Response Reason Code" : "",
+        "RDR352_Description" : "228372"
+      },
+      "PRF" : { },
+      "DTM" : [ {
+        "DTM374_Date/Time Qualifier" : "118",
+        "DTM373_Date" : "20260515"
+      } ],
+      "GF" : { }
+    } ],
+    "SE" : {
+      "SE96_Number of Included Segments" : "12",
+      "SE329_Transaction Set Control Number" : "0001"
+    }
+  }
+}

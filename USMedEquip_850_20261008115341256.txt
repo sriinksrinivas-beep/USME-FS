@@ -1,0 +1,140 @@
+{
+  "Area1" : {
+    "BEG" : {
+      "BEG353_Transaction Set Purpose Code" : "00",
+      "BEG92_Purchase Order Type Code" : "RN",
+      "BEG324_Purchase Order Number" : "EHC00231366",
+      "BEG328_Release Number" : "0",
+      "BEG373_Date" : "20261008"
+    },
+    "CUR" : {
+      "CUR98_Entity Identifier Code" : "BY",
+      "CUR100_Currency Code" : "USD"
+    },
+    "REF" : [ {
+      "REF128_Reference Identification Qualifier" : "CR",
+      "REF127_Reference Identification" : "139-A",
+      "REF352_Description" : "501740911",
+      "REFC040" : {
+        "C04001_Reference Identification Qualifier" : "JD",
+        "C04002_Reference Identification" : "Patient First",
+        "C04003_Reference Identification Qualifier" : "JD",
+        "C04004_Reference Identification" : "Patient First"
+      }
+    } ],
+    "PER" : [ {
+      "PER366_Contact Function Code" : "BD",
+      "PER93_Name" : "Kenneth C Wilkey",
+      "PER365_Communication Number Qualifier" : "",
+      "PER364_Communication Number" : "",
+      "PER365_3_Communication Number Qualifier" : "EM",
+      "PER364_3_Communication Number" : "Kenneth.Wilkey@encompasshealth.com"
+    } ],
+    "ITD" : [ {
+      "ITD336_Terms Type Code" : "",
+      "ITD333_Terms Basis Date Code" : "",
+      "ITD338_Terms Discount Percent" : "",
+      "ITD370_Terms Discount Due Date" : "",
+      "ITD351_Terms Discount Days Due" : "",
+      "ITD446_Terms Net Due Date" : "",
+      "ITD386_Terms Net Days" : "",
+      "ITD362_Terms Discount Amount" : "",
+      "ITD388_Terms Deferred Due Date" : "",
+      "ITD389_Deferred Amount Due" : "",
+      "ITD342_Percent of Invoice Payable" : "",
+      "ITD352_Description" : "Net 30"
+    } ],
+    "INC" : { },
+    "DTM" : [ {
+      "DTM374_Date/Time Qualifier" : "002",
+      "DTM373_Date" : "20261007"
+    }, {
+      "DTM374_Date/Time Qualifier" : "064",
+      "DTM373_Date" : "20261007"
+    }, {
+      "DTM374_Date/Time Qualifier" : "063",
+      "DTM373_Date" : "20261007"
+    } ],
+    "N1" : [ {
+      "N1" : {
+        "N198_Entity Identifier Code" : "ST",
+        "N193_Name" : "Savannah Rehab",
+        "N166_Identification Code Qualifier" : "92",
+        "N167_Identification Code" : "03019500"
+      },
+      "N3" : [ {
+        "N3166_Address Information" : "6510 Seawright Drive"
+      } ],
+      "N4" : [ {
+        "N419_City Name" : "Savannah",
+        "N4156_State or Province Code" : "GA",
+        "N4116_Postal Code" : "31404",
+        "N426_Country Code" : "US"
+      } ],
+      "FOB" : { }
+    }, {
+      "N1" : {
+        "N198_Entity Identifier Code" : "BT",
+        "N193_Name" : "Encompass Health Corporation",
+        "N166_Identification Code Qualifier" : "92",
+        "N167_Identification Code" : "41"
+      },
+      "N3" : [ {
+        "N3166_Address Information" : "9001 Liberty Parkway"
+      } ],
+      "N4" : [ {
+        "N419_City Name" : "Birmingham",
+        "N4156_State or Province Code" : "AL",
+        "N4116_Postal Code" : "35242",
+        "N426_Country Code" : "US"
+      } ],
+      "FOB" : { }
+    } ]
+  },
+  "Area2" : {
+    "PO1" : [ {
+      "PO1" : {
+        "PO1350_Assigned Identification" : "1",
+        "PO1330_Quantity Ordered" : "1",
+        "PO1355_Unit or Basis for Measurement Code" : "DA",
+        "PO1212_Unit Price" : "43",
+        "PO1639_Basis of Unit Price Code" : "CA",
+        "PO1235_Product/Service ID Qualifier" : "VC",
+        "PO1234_Product/Service ID" : "50426"
+      },
+      "CUR" : { },
+      "CN1" : { },
+      "IT8" : { },
+      "INC" : { },
+      "TD1" : { },
+      "TD5" : [ {
+        "TD5133_Routing Sequence Code" : "",
+        "TD566_Identification Code Qualifier" : "",
+        "TD567_Identification Code" : "",
+        "TD591_Transportation Method/Type Code" : "",
+        "TD5387_Routing" : "",
+        "TD5368_Shipment/Order Status Code" : "",
+        "TD5309_Location Qualifier" : "",
+        "TD5310_Location Identifier" : "",
+        "TD5731_Transit Direction Code" : "",
+        "TD5732_Transit Time Direction Qualifier" : "",
+        "TD5733_Transit Time" : "",
+        "TD5284_Service Level Code" : "ST"
+      } ],
+      "LS" : { },
+      "LE" : { }
+    } ]
+  },
+  "Area3" : {
+    "CTT" : {
+      "CTT" : {
+        "CTT354_Number of Line Items" : "1"
+      },
+      "AMT" : { }
+    },
+    "SE" : {
+      "SE96_Number of Included Segments" : "19",
+      "SE329_Transaction Set Control Number" : "0001"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+1. Bryan reviews for Day2.
+2. Contract Price should be validated against the contract start and end date on the order else it should pick the list price
+3. record lost inventory
+4. 
+
+
+Portal External Portal
+
+Login USer
+Security
+Home Page
+Landing Page
+Menu's
+
+
+
+
+
+- Master Data 
+- Customer Portal
+- Quotes and Orders - > Tokenization
+- Data Migrations
+- Integrations - Workato
+- Opportunity - Quote and Order  - Forecasting and Pipeline
+- What support is expected from Durvah (Scope to be clarified)
+- Dashboard and Notificatons
+- Automations involved
+- SFDC Shield
+- Do's and Donts
+
+- Contracts
+- Intake for Call logs
+
+
+
+1.
+EDI - Azure  Clio
+File - SFTP
+Trigger will be a new file submitted to the folder
+
+850, 180
+send back 855
+
+810 documtn invoice
+
+CDC and billing creates manually
+
+
+
+2. Power Automation flows
+Email, Fax, SFTP file
+extract data from transmission.
+
+
+3. RPA
+   order from website using RPA
+
+
+
+-----
+
+1. No NEw Devlopments on SFDC
+2. Whats the Branding required on portal
+3. List of Reports and Dashboards required
+4. 
+
+
+
+
