@@ -1,17 +1,18 @@
 Requirements
 
-1.Tokenization - Matt,
-2.Blanket PO  (Ann or Jaish)
-3.Customer Portal
-4.Salesforce Shield
-5.Forecasting
-6.Discount Approvals
-7.Data Migration
-8.Intake
-9.Contracts
-10.Automations
-11. Snowflake (Customer, Equipment master - > data set, Future customer) -> Oct 
-12. KPI's - Are sales rep doing good enogh , relationship maintaing
-13. GT -> Acumatica 
+1.Tokenization - Matt, - Done
+2.Blanket PO  (Ann or Jaish) - Done
+3.Customer Portal - done
+4.Salesforce Shield  - Done
+5.Forecasting - Done
+6.Discount Approvals - Done
+7.Data Migration - Done
+8.Intake - Done
+9.Contracts link with Price list and Expirty notification  - Done
+10.Automations (EDI, EMR, Email, SFTP, eFax) - done
+11. Snowflake (Customer, Equipment master - > data set, Future customer) -> Integration - Done
+12. KPI's - Are sales rep doing good enogh , relationship maintain
+13. GT -> Acumatica    done
 14. Snowflake  interface to SFDC for Masters
 15. Readbeem - Cg4 replacement (interface to Ascent)
+16. New Customer and Equipment Intake form and Approval 

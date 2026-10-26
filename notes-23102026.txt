@@ -1,0 +1,54 @@
+Presentation
+web App
+AI Tool
+Interactive website
+Link
+Case study we think as a company
+Problem -> Solution
+
+
+
+
+Expiry notification
+Contract Price should come front
+Pick the price list
+
+
+Eric
+- Automation
+- SFTP
+
+
+-----------------------------------------
+- 
+
+
+Ascent
+-----------------------------------------
+- 
+
+
+Intake
+Cusotomer Rep
+
+Workato - Portal 
+
+Intake Source - Everthing thru intake
+
+ARchitect Document
+Centrialised Source  - Intake
+E-Fax, Email, -> Workato -> Intake
+
+
+Complex
+
+MAster Data Governanance
+  - Any new customer data - Snowflake
+  - if its not in snowflake -> MDTeam  -> Snow Flake - SFDC
+  - Intake form for new customer creation
+  - New Equipment -> intake form -> Approval -> MD Team -> Supporting Detail --> Snowlflaeke - SFDC
+
+
+
+
+

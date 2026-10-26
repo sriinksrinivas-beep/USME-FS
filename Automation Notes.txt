@@ -1,0 +1,32 @@
+Email - PDF attachment (Sales)  ^ Workato
+Email - Body  * PA
+SFTP - ^ Workato
+Secure Email (RPA)  * PA
+Fax (OCR AI Model)  * PA
+EDI  ^ Workato
+Receive 850
+Nofill:  We attempt to update an existing order or rental and DO NOT create the Intake/Order
+Receive 180
+Send 810
+855
+ 
+ 
+   
+ 
+ 
+Workato
+ 
+  |
+ 
+Ascent
+ 
+ 
+Error Handling / Failure Notification
+ 
+Incoming orders will have legacy unique identifiers
+ 
+PartnerID = Account
+ModelID = Item
+Barcode = Serialized
+Description lookup to get to unique identifiers
+Logic hierarchies to lookup unique identifiers
