@@ -1,0 +1,32 @@
+REquest Types: (Question to Ascent)
+
+Delviery - Creates Sales Order
+Pickup -> Should created what?
+Swap - > if the equipment is SWAP what should he the action in the system
+Standbx - > Will still create Sales ORder
+Conginment -> Order? 
+Exchange -> how Is this requires created?
+
+
+Once the Intake is created and
+
+
+Tokenization:
+Is it required on Intake Request?
+
+
+
+Design Decisions:
+
+Intake -> To have header and lines
+
+Support and Rental Service Request  as one Request 
+   - > IT Support on the Portal
+   - > Support on Rental Equipment's
+           - Service
+           - Exchange
+           - Repair
+           -
+
+Preferred Invoice and Authorized Invoice  - > Need decisions
+
